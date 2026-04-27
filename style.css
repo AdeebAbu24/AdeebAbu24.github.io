@@ -1,12 +1,12 @@
 body {
   font-family: "Times New Roman", Times, serif;
   margin: 0;
-  background-color: #f4f4f4;
-  color: #222;
+  background-color: #ffffff; 
+  color: #111;
 }
 
 header {
-  background-color: #111;
+  background-color: #001f3f; 
   color: white;
   padding: 20px;
   text-align: center;
@@ -29,7 +29,7 @@ main {
 }
 
 section {
-  background-color: white;
+  background-color: #f2f6fc; 
   padding: 20px;
   margin-bottom: 20px;
   border: 1px solid #ccc;
